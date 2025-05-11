@@ -30,9 +30,12 @@ This project provides a basic data analysis of COVID-19 using R. It includes exp
 
 **Ilori Tolulope Victor**  
 Email: [dr.toluwalopemi@gmail.com](mailto:dr.toluwalopemi@gmail.com)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tolulope-v-ilori-3198141b7)
+
 
 ## 📜 License
 
 This project is open-source under the MIT License.
+
 
 
